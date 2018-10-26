@@ -15,6 +15,7 @@
 		2F70F1E72181E9F6007B6BDA /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F70F1E62181E9F6007B6BDA /* CategoryCell.swift */; };
 		2F70F1E92181F2AC007B6BDA /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F70F1E82181F2AC007B6BDA /* Category.swift */; };
 		2F70F1EC2181F78F007B6BDA /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F70F1EB2181F78F007B6BDA /* DataService.swift */; };
+		2F70F1EE2183256C007B6BDA /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F70F1ED2183256C007B6BDA /* ProductCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2F70F1E62181E9F6007B6BDA /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		2F70F1E82181F2AC007B6BDA /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		2F70F1EB2181F78F007B6BDA /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		2F70F1ED2183256C007B6BDA /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				2F70F1E62181E9F6007B6BDA /* CategoryCell.swift */,
+				2F70F1ED2183256C007B6BDA /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				2F70F1D42181E3BA007B6BDA /* CategoriesVC.swift in Sources */,
 				2F70F1D22181E3BA007B6BDA /* AppDelegate.swift in Sources */,
 				2F70F1E72181E9F6007B6BDA /* CategoryCell.swift in Sources */,
+				2F70F1EE2183256C007B6BDA /* ProductCell.swift in Sources */,
 				2F70F1E92181F2AC007B6BDA /* Category.swift in Sources */,
 				2F70F1EC2181F78F007B6BDA /* DataService.swift in Sources */,
 			);
